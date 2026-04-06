@@ -365,7 +365,7 @@ def clockSkin():
 				</screen>"""
 
 	try:  # try to import DateToText converter (GP3 component) to check for its existence
-		from Components.Converter.DateToText import DateToText  # change converter to obtain localized weekdays
+		from Components.Converter.DateToText import DateToText  # change converter to obtain localized weekdays # noqa F401
 		currentSkin = currentSkin.replace('<convert type="ClockToText">Format:%A, %d.%m.%Y</convert>', '<convert type="DateToText">NNNN, DD.MM.YYYY</convert>')
 	except ImportError as ie:
 		print(pluginPrintname, "DateToText converter not installed:", ie)
