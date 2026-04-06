@@ -1,0 +1,19 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Push key 'Exit long' to show the clock while watching TV",
+  "description_recipe": "Push key 'Exit long' to show the clock while watching TV",
+  "history_source_dir": "showclock",
+  "internal_package_name": "enigma2-plugin-extensions-showclock",
+  "module_dir_name": "ShowClock",
+  "output_subdir": "showclock",
+  "package_name": "enigma2-plugin-extensions-showclock",
+  "plugin_src_rel": "showclock",
+  "python_package": "ShowClock",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "ShowClock",
+  "rrecommends": "",
+  "rreplaces": "",
+  "selected_from_plugin_list": true
+}
