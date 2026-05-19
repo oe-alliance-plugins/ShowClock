@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-plugins 3.2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-03 15:01+0000\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2012-12-03 15:01+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,21 +17,27 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#: ../plugin.py:142
 msgid "Cancel"
 msgstr "Cancel"
 
+#: ../plugin.py:117
 msgid "Clock show timeout"
 msgstr "Clock show timeout"
 
+#: ../plugin.py:123
 msgid "Description"
 msgstr "Description"
 
+#: ../plugin.py:74
 msgid "Extensions menu"
 msgstr "Extensions menu"
 
+#: ../plugin.py:144
 msgid "Help"
 msgstr "Help"
 
+#: ../plugin.py:205
 msgid ""
 "Modify the settings to match your preferences. To change the clock position, select \"Move clock\" and relocate using the direction keys. Press OK to store current position and return to the setup menu or EXIT to cancel the moving.\n"
 "\n"
@@ -45,15 +51,19 @@ msgstr ""
 "\n"
 "If GP3 is installed, weekday shows up in selected language, otherwise always in english."
 
+#: ../plugin.py:145
 msgid "Move clock"
 msgstr "Move clock"
 
+#: ../plugin.py:121
 msgid "Name"
 msgstr "Name"
 
+#: ../plugin.py:143
 msgid "OK"
 msgstr "OK"
 
+#: ../plugin.py:214
 msgid ""
 "Please use direction keys to move the clock.\n"
 "\n"
@@ -63,32 +73,42 @@ msgstr ""
 "\n"
 "Press OK to store current position and return to the setup menu or EXIT to cancel the moving."
 
+#: ../plugin.py:74
 msgid "Plugin menu"
 msgstr "Plugin menu"
 
+#: ../plugin.py:73
 msgid "Push \"Exit\" long to show/hide clock"
 msgstr "Push \"Exit\" long to show/hide clock"
 
+#: ../plugin.py:112 ../plugin.py:167
 msgid "Show Clock Setup"
 msgstr "Show Clock Setup"
 
+#: ../plugin.py:72
 msgid "Show Clock setup"
 msgstr "Show Clock setup"
 
+#: ../plugin.py:119
 msgid "Show in"
 msgstr "Show in"
 
+#: ../plugin.py:118
 msgid "Specify how long (seconds) the clock shall be shown before it disappears. Set to \"0\" to show clock until hidden manually."
 msgstr "Specify how long (seconds) the clock shall be shown before it disappears. Set to \"0\" to show clock until hidden manually."
 
+#: ../plugin.py:124
 msgid "Specify plugin description to be used in menu (needs GUI restart)."
 msgstr "Specify plugin description to be used in menu (needs GUI restart)."
 
+#: ../plugin.py:122
 msgid "Specify plugin name to be used in menu (needs GUI restart)."
 msgstr "Specify plugin name to be used in menu (needs GUI restart)."
 
+#: ../plugin.py:120
 msgid "Specify whether plugin shall show up in plugin menu or extensions menu (needs GUI restart)"
 msgstr "Specify whether plugin shall show up in plugin menu or extensions menu (needs GUI restart)"
 
+#: ../plugin.py:167 ../plugin.py:403 ../plugin.py:411
 msgid "Ver."
 msgstr "Ver."

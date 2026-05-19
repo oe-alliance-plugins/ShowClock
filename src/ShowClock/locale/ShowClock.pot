@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the ShowClock package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: ShowClock\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:06+0430\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,21 +17,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: ../plugin.py:142
 msgid "Cancel"
 msgstr ""
 
+#: ../plugin.py:117
 msgid "Clock show timeout"
 msgstr ""
 
+#: ../plugin.py:123
 msgid "Description"
 msgstr ""
 
+#: ../plugin.py:74
 msgid "Extensions menu"
 msgstr ""
 
+#: ../plugin.py:144
 msgid "Help"
 msgstr ""
 
+#: ../plugin.py:205
 msgid ""
 "Modify the settings to match your preferences. To change the clock position, select \"Move clock\" and relocate using the direction keys. Press OK to store current position and return to the setup menu or EXIT to cancel the moving.\n"
 "\n"
@@ -40,47 +46,61 @@ msgid ""
 "If GP3 is installed, weekday shows up in selected language, otherwise always in english."
 msgstr ""
 
+#: ../plugin.py:145
 msgid "Move clock"
 msgstr ""
 
+#: ../plugin.py:121
 msgid "Name"
 msgstr ""
 
+#: ../plugin.py:143
 msgid "OK"
 msgstr ""
 
+#: ../plugin.py:214
 msgid ""
 "Please use direction keys to move the clock.\n"
 "\n"
 "Press OK to store current position and return to the setup menu or EXIT to cancel the moving."
 msgstr ""
 
+#: ../plugin.py:74
 msgid "Plugin menu"
 msgstr ""
 
+#: ../plugin.py:73
 msgid "Push \"Exit\" long to show/hide clock"
 msgstr ""
 
+#: ../plugin.py:112 ../plugin.py:167
 msgid "Show Clock Setup"
 msgstr ""
 
+#: ../plugin.py:72
 msgid "Show Clock setup"
 msgstr ""
 
+#: ../plugin.py:119
 msgid "Show in"
 msgstr ""
 
+#: ../plugin.py:118
 msgid "Specify how long (seconds) the clock shall be shown before it disappears. Set to \"0\" to show clock until hidden manually."
 msgstr ""
 
+#: ../plugin.py:124
 msgid "Specify plugin description to be used in menu (needs GUI restart)."
 msgstr ""
 
+#: ../plugin.py:122
 msgid "Specify plugin name to be used in menu (needs GUI restart)."
 msgstr ""
 
+#: ../plugin.py:120
 msgid "Specify whether plugin shall show up in plugin menu or extensions menu (needs GUI restart)"
 msgstr ""
 
+#: ../plugin.py:167 ../plugin.py:403 ../plugin.py:411
 msgid "Ver."
 msgstr ""
